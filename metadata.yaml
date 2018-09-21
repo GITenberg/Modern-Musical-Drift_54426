@@ -1,0 +1,24 @@
+_repo: Modern-Musical-Drift_54426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, W. J. (William James)
+    alias: Henderson, William James
+    birthdate: 1855
+    deathdate: 1937
+    gutenberg_agent_id: '8988'
+    url: http://www.gutenberg.org/2009/agents/8988
+    wikipedia: http://en.wikipedia.org/wiki/William_James_Henderson
+description: ''
+gutenberg_issued: '2017-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Modern Musical Drift
+url: http://www.gutenberg.org/ebooks/54426
